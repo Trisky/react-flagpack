@@ -22,7 +22,7 @@ const Flag: React.FC<FlagProps> = ({
   hasDropShadow = false,
   hasBorderRadius = true,
   className,
-  basePath = '';
+  basePath = ''
 }: FlagProps) => {
   return (
     <div
